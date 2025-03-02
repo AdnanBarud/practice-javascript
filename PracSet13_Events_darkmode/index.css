@@ -1,0 +1,12 @@
+.but1 {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: 5px solid black;
+}
+.dark-mode {
+    background-color: black;
+    color: white;
+    border: 5px solid red;
+    padding: 15px;
+}
