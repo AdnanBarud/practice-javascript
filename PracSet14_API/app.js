@@ -9,7 +9,7 @@ let getFacts = async () => {
     console.log(facts);
     
 }
-getFacts();
+// getFacts();
 
 
 // let API = "https://cors-anywhere.herokuapp.com/https://cat-fact.herokuapp.com/facts";
